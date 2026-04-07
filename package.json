@@ -1,0 +1,12 @@
+{
+  "name": "syndicate-platform",
+  "version": "1.0.0",
+  "description": "Co-ownership rails for Australia",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
